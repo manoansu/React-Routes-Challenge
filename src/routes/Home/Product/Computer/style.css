@@ -1,0 +1,19 @@
+.computer {
+    margin-left: 50px
+}
+
+.computer h4{
+    padding-bottom: 10px;
+}
+
+@media(max-width: 320px) {
+    .computer {
+        margin-left: 20px;
+    }
+}
+
+@media(max-width: 576px) {
+    .computer {
+        margin-left: 50px;
+    }
+}

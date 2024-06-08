@@ -1,0 +1,19 @@
+.book {
+    margin-left: 50px
+}
+
+.book h4{
+    padding-bottom: 10px;
+}
+
+@media(max-width: 320px) {
+    .book {
+        margin-left: 20px;
+    }
+}
+
+@media(max-width: 576px) {
+    .book {
+        margin-left: 50px;
+    }
+}

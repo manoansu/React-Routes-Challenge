@@ -1,0 +1,19 @@
+.electronic {
+    margin-left: 50px
+}
+
+.electronic h4 {
+    padding-bottom: 10px;
+}
+
+@media(max-width: 320px) {
+    .electronic {
+        margin-left: 20px;
+    }
+}
+
+@media(max-width: 576px) {
+    .electronic {
+        margin-left: 50px;
+    }
+}
